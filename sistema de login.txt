@@ -1,2 +1,4 @@
+Digite seu id
 login:
+Digite sua senha
 senha:
